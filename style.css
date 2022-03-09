@@ -1,0 +1,22 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/***
+    #CE1126
+    #000000
+    #007A3D
+    main-color : #95AE74  
+   font-family: 'El Messiri', sans-serif;
+***/
+:root
+{
+    --main-color : #95AE74;
+}
+body
+{
+    font-family: 'El Messiri', sans-serif;
+    direction: rtl;
+}
